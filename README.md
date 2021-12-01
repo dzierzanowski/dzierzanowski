@@ -6,4 +6,6 @@ Let's stay in touch though!
 
 ---
 
-Check out the 🇵🇱 COVID-19 restrictions generator I co-created for 💩s and giggles at https://koronawirus.lol, repo pinned below 👇
+Check out the 🇵🇱 COVID-19 restrictions generator I co-created for 💩s and giggles at https://koronawirus.lol,
+
+repo pinned below 👇
