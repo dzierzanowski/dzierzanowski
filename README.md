@@ -1,8 +1,7 @@
 # Hi there!
 
-If you're a **recruiter**, congratulations on getting this far. I really appreciate your effort.  
-Let me know what you've got, but be aware that I'm most probably not looking for a new job opportunity at the moment.  
-Let's stay in touch, though!
+If you're a **talent acquisition specialist**, thank you for visiting my profile — I appreciate your effort.  
+Currently I'm likely not looking for a new job opportunity, but do tell me whom do you represent & let's stay in touch.
 
 ---
 
