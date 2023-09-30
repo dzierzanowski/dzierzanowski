@@ -2,7 +2,7 @@
 
 If you're a **recruiter**, congratulations on getting this far.  
 Let me know what you've got, but be aware that I'm most probably not looking for a new job opportunity at the moment.  
-Let's stay in touch though!
+Let's stay in touch, though!
 
 ---
 
