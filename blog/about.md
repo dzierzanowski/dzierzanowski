@@ -5,8 +5,6 @@ description: Quick info about waked.
 tags: [ waked, about-me, hello-world ]
 --- -->
 
-# About me
-
 `waked`: DevOps Engineer, est. 2018, based in 🇵🇱 Poland.
 
 Tech:
