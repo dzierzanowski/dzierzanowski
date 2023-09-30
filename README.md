@@ -5,5 +5,5 @@ Currently I'm likely not looking for a new job opportunity, but do tell me whom 
 
 ---
 
-Check out the 🇵🇱 COVID-19 restrictions generator I co-created for 💩s and giggles at https://koronawirus.lol,  
+Check out the COVID-19 restrictions generator I co-created for 💩s and giggles at https://koronawirus.lol (in PL,)
 repo pinned below 👇
